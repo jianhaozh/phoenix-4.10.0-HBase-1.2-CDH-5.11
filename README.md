@@ -21,3 +21,20 @@ limitations under the License.
 
 Copyright ©2014 [Apache Software Foundation](http://www.apache.org/). All Rights Reserved. 
 # phoenix-4.10.0-HBase-1.2-CDH-5.11
+
+
+This version of Phoenix is only used to test!
+
+Do not use it into production!
+
+
+compile to cdh edition,change code refers to:
+
+https://patch-diff.githubusercontent.com/raw/apache/phoenix/pull/230.patch
+
+https://github.com/chiastic-security/phoenix-for-cloudera/commit/34f9274370c3ebc9e94e25f51282da554076902e
+
+
+
+
+
